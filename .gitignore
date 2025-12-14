@@ -50,3 +50,4 @@ Thumbs.db
 # Models (uncomment if models are too large)
 # models/*.pkl
 
+data/processed/clean_fake_news_dataset.csv
